@@ -1,11 +1,6 @@
 # Hello!
 I'm @MystPi, programmer and all things RPI lover.
 
-* **I 💗 Linux**
-  * APT > Pacman
+[![MystPi's GitHub stats](https://github-readme-stats.vercel.app/api?username=MystPi)](https://github.com/MystPi/github-readme-stats)
 
----
-```py
-while True:
-    print("Code. Test. Debug. Repeat!")
-```
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MystPi&layout=compact)](https://github.com/MystPi/github-readme-stats)
