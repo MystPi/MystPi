@@ -29,6 +29,10 @@ class MystPi:
     def display_tech(self):
         print('== Tech Stack ==')
         display_list(self.tech)
+        
+me = MystPi()
+me.display_langs()
+me.display_tech()
 ```
 
 <!-- ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MystPi&layout=compact)
