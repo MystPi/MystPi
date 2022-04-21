@@ -11,12 +11,11 @@ class MystPi:
             'Python',
             'JavaScript',
             'HTML & CSS',
-            'Racket',
         ]
         self.tech = [
-            'Raspberry Pi',
-            'Tailwind CSS',
             'Svelte & SvelteKit',
+            'React',
+            'Tailwind CSS',
             'Language development',
             'Electron',
             '... and more!'
