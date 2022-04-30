@@ -8,9 +8,10 @@ class MystPi {
     this.username = 'MystPi';
     this.type = 'Full stack developer';
     this.langs = [
-      'Python',
       'JavaScript',
+      'Python',
       'HTML & CSS',
+      // and more; basically whatever my current obsession happens to be
     ];
     this.tech = [
       'Svelte & SvelteKit',
@@ -18,7 +19,7 @@ class MystPi {
       'Tailwind CSS',
       'Language development',
       'Electron',
-      '... and more!'
+      // and many others
     ];
   }
         
