@@ -2,36 +2,36 @@
 
 <a href="https://app.daily.dev/MystPi"><img align="right" src="devcard.svg" width="400" alt="MystPi's Dev Card"/></a>
 
-```py
-class MystPi:
-    def __init__(self):
-        self.username = 'MystPi'
-        self.type = 'Full stack developer'
-        self.langs = [
-            'Python',
-            'JavaScript',
-            'HTML & CSS',
-        ]
-        self.tech = [
-            'Svelte & SvelteKit',
-            'React',
-            'Tailwind CSS',
-            'Language development',
-            'Electron',
-            '... and more!'
-        ]
+```js
+class MystPi {
+  constructor() {
+    this.username = 'MystPi';
+    this.type = 'Full stack developer';
+    this.langs = [
+      'Python',
+      'JavaScript',
+      'HTML & CSS',
+    ];
+    this.tech = [
+      'Svelte & SvelteKit',
+      'React',
+      'Tailwind CSS',
+      'Language development',
+      'Electron',
+      '... and more!'
+    ];
+  }
         
-    def display_langs(self):
-        print('== Languages ==')
-        display_list(self.langs)
+  display_langs() {
+    console.log('== Languages ==');
+    this.display_list(this.langs);
+  }
             
-    def display_tech(self):
-        print('== Tech Stack ==')
-        display_list(self.tech)
-        
-me = MystPi()
-me.display_langs()
-me.display_tech()
+  display_tech() {
+    console.log('== Tech Stack ==');
+    this.display_list(self.tech);
+  }
+}
 ```
 
 <!-- ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MystPi&layout=compact)
