@@ -30,7 +30,7 @@ class MystPi {
             
   display_tech() {
     console.log('== Tech Stack ==');
-    this.display_list(self.tech);
+    this.display_list(this.tech);
   }
 }
 ```
