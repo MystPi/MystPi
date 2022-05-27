@@ -1,39 +1,5 @@
-# Hi there; I'm MystPi! 👋
+# Hey there; welcome to my profile 👋
 
-<a href="https://app.daily.dev/MystPi"><img align="right" src="devcard.svg" width="400" alt="MystPi's Dev Card"/></a>
+**I'm MystPi** - I love making things with JavaScript, Svelte, and basically any web framework I can get my hands on. CSS is awesome too, don't let anyone tell you otherwise. 😉
 
-```js
-class MystPi {
-  constructor() {
-    this.username = 'MystPi';
-    this.type = 'Full stack developer';
-    this.langs = [
-      'JavaScript',
-      'Python',
-      'HTML & CSS',
-      // and more; basically whatever my current obsession happens to be
-    ];
-    this.tech = [
-      'Svelte & SvelteKit',
-      'React',
-      'Tailwind CSS',
-      'Language development',
-      'Electron',
-      // and many others
-    ];
-  }
-        
-  display_langs() {
-    console.log('== Languages ==');
-    this.display_list(this.langs);
-  }
-            
-  display_tech() {
-    console.log('== Tech Stack ==');
-    this.display_list(this.tech);
-  }
-}
-```
-
-<!-- ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MystPi&layout=compact)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MystPi&count_private=true&show_icons=true) -->
+![My skills](https://skillicons.dev/icons?i=svelte,js,html,css,py,ruby,react,tailwind)
