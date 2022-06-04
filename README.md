@@ -8,4 +8,6 @@
 
 ### Daily.dev bookmarks
 <!-- daily.dev BOOKMARKS:START -->
+- [How to Write Better Git Commit Messages – A Step-By-Step Guide](https://app.daily.dev/posts/__kOFJPyN?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
+- [Developer Tools secrets that shouldn’t be secrets](https://app.daily.dev/posts/cpTCP7UHE?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
 <!-- daily.dev BOOKMARKS:END -->
