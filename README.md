@@ -7,5 +7,5 @@
 ![My skills](https://skillicons.dev/icons?i=svelte,js,html,css,py,ruby,react,tailwind)
 
 ### Daily.dev bookmarks
-<!--  daily.dev BOOKMARKS:START -->
-<!--  daily.dev BOOKMARKS:END -->
+<!-- daily.dev BOOKMARKS:START -->
+<!-- daily.dev BOOKMARKS:END -->
