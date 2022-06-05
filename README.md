@@ -6,7 +6,7 @@
 
 ![My skills](https://skillicons.dev/icons?i=svelte,js,html,css,py,ruby,react,tailwind)
 
-### Daily.dev bookmarks
+### [Daily.dev](https://daily.dev) Recent Bookmarks
 <!-- daily.dev BOOKMARKS:START -->
 - [Jamstack Rendering Patterns: The Evolution — Smashing Magazine](https://app.daily.dev/posts/KAwCSHrqm?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
 - [How to Write Better Git Commit Messages – A Step-By-Step Guide](https://app.daily.dev/posts/__kOFJPyN?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
