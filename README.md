@@ -8,9 +8,9 @@
 
 ### [Daily.dev](https://daily.dev) Recent Bookmarks
 <!-- daily.dev BOOKMARKS:START -->
+- [An interactive cheatsheet tool for the CLI](https://app.daily.dev/posts/962e67c5c8322a253248dd578b34b0f6?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
 - [Bored of the same code lang? Try a new coding or programming language.](https://app.daily.dev/posts/uvlrew20M?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
 - [When to &lpar;Not&rpar; Use React Context API for State?](https://app.daily.dev/posts/r6hsc0YFk?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
 - [Wasp — language for developing full-stack Javascript web apps with no boilerplate](https://app.daily.dev/posts/cPqfOR8WF?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
 - [Please, No More Todo Apps — 5 Alternatives for Side Projects and Learning a New Language](https://app.daily.dev/posts/lIhg3ZHX2?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
-- [n3r4zzurr0/svg-spinners: A collection of 24 x 24 dp SVG spinners!](https://app.daily.dev/posts/Np12-hrxC?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
 <!-- daily.dev BOOKMARKS:END -->
