@@ -8,9 +8,9 @@
 
 ### [Daily.dev](https://daily.dev) Recent Bookmarks
 <!-- daily.dev BOOKMARKS:START -->
-- [Great Web Development Books You Can Read Free | CSS-Tricks](https://app.daily.dev/posts/J1N6nM-Ov?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
-- [My Wonderful HTML Email Workflow](https://app.daily.dev/posts/yg2aBWz7f?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
-- [An interactive cheatsheet tool for the CLI](https://app.daily.dev/posts/962e67c5c8322a253248dd578b34b0f6?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
-- [Bored of the same code lang? Try a new coding or programming language.](https://app.daily.dev/posts/uvlrew20M?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
-- [When to &lpar;Not&rpar; Use React Context API for State?](https://app.daily.dev/posts/r6hsc0YFk?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
+- [Fresh 1.0](https://app.daily.dev/posts/jEX-9ypIa?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
+- [My Dumbest CSS Mistakes | CSS-Tricks](https://app.daily.dev/posts/kvT8mo5k7?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
+- [Blog - Next.js 12.2](https://app.daily.dev/posts/vNUSctH7E?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
+- [Challenge: Explore Svelte by Building a Bubble Popping Game](https://app.daily.dev/posts/78B--XEop?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
+- [Build a React App with Firebase Serverless Functions](https://app.daily.dev/posts/sJjAXeCz1?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
 <!-- daily.dev BOOKMARKS:END -->
