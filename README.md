@@ -8,9 +8,9 @@
 
 ### [Daily.dev](https://daily.dev) Recent Bookmarks
 <!-- daily.dev BOOKMARKS:START -->
+- [How to make absolutely any app look like a macOS app — Martian Chronicles](https://app.daily.dev/posts/doiYGXkVB?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
 - [Building a Design System from scratch](https://app.daily.dev/posts/yXzyXmG9a?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
 - [Putting Javascript in Your CSS](https://app.daily.dev/posts/VsJcZq6oF?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
 - [Fresh 1.0](https://app.daily.dev/posts/jEX-9ypIa?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
 - [My Dumbest CSS Mistakes | CSS-Tricks](https://app.daily.dev/posts/kvT8mo5k7?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
-- [Blog - Next.js 12.2](https://app.daily.dev/posts/vNUSctH7E?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
 <!-- daily.dev BOOKMARKS:END -->
