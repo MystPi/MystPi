@@ -8,9 +8,9 @@
 
 ### [Daily.dev](https://daily.dev) Recent Bookmarks
 <!-- daily.dev BOOKMARKS:START -->
+- [Holograms, light-leaks and how to build CSS-only shaders](https://app.daily.dev/posts/8z6O4Fgb3?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
 - [JS Capsules: Maps](https://app.daily.dev/posts/5vGbO5ufm?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
 - [Xiaomi launches smartphone with enormous imaging sensors and Leica optics – TechCrunch](https://app.daily.dev/posts/JgnTcNI4G?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
 - [How to Build Command Line Interfaces in Python With argparse](https://app.daily.dev/posts/6f89133577d267eb574223848332b6cc?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
 - [Copilot works so well because it steals open source code and strips credit](https://app.daily.dev/posts/CXVOf8Poe?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
-- [How to make absolutely any app look like a macOS app — Martian Chronicles](https://app.daily.dev/posts/doiYGXkVB?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
 <!-- daily.dev BOOKMARKS:END -->
