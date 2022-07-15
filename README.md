@@ -8,9 +8,9 @@
 
 ### [Daily.dev](https://daily.dev) Recent Bookmarks
 <!-- daily.dev BOOKMARKS:START -->
+- [Six Programming Languages I&#39;d Like to See](https://app.daily.dev/posts/n_aocpAwg?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
+- [Community Picks 💎](https://app.daily.dev/posts/tCb9di7rq?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
 - [Breaking Out of a Central Wrapper](https://app.daily.dev/posts/bcCuX48km?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
 - [An open-source model that dwarfs GPT-3 aims to free AI from Big Tech](https://app.daily.dev/posts/DhW8o_r0f?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
 - [Technical Writing for Developers | CSS-Tricks](https://app.daily.dev/posts/oOY7sEEB5?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
-- [Statements Vs. Expressions](https://app.daily.dev/posts/yOj-xDknf?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
-- [Code Language Converter - Quickly convert code to other programming languages using AI](https://app.daily.dev/posts/aFwSFl06e?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
 <!-- daily.dev BOOKMARKS:END -->
