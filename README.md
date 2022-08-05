@@ -8,9 +8,9 @@
 
 ### [Daily.dev](https://daily.dev) Recent Bookmarks
 <!-- daily.dev BOOKMARKS:START -->
+- [Recreating MDN&#39;s Truncated Text Effect | CSS-Tricks](https://app.daily.dev/posts/1tuaSxTbH?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
 - [How to Center a Div with CSS – 10 Different Ways](https://app.daily.dev/posts/q4LIy7PW4?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
 - [clientdb - Build lightning fast apps with instantaneous interactions](https://app.daily.dev/posts/WNfWlurKg?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
 - [Six Programming Languages I&#39;d Like to See](https://app.daily.dev/posts/n_aocpAwg?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
 - [Community Picks 💎](https://app.daily.dev/posts/tCb9di7rq?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
-- [Breaking Out of a Central Wrapper](https://app.daily.dev/posts/bcCuX48km?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
 <!-- daily.dev BOOKMARKS:END -->
