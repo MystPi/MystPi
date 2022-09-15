@@ -8,9 +8,9 @@
 
 ### [Daily.dev](https://daily.dev) Recent Bookmarks
 <!-- daily.dev BOOKMARKS:START -->
+- [Modern for Wikipedia](https://app.daily.dev/posts/NeHjtVk-H?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
 - [Blog - Next.js 12.3](https://app.daily.dev/posts/6VVgw9rI_?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
 - [How I Maintain OSS Projects](https://app.daily.dev/posts/y1he4fBOB?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
 - [Creative list styling](https://app.daily.dev/posts/Pl3lL9X0n?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
 - [Use Google like a pro](https://app.daily.dev/posts/b1NqQe7Sq?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
-- [Visual Studio Code&#39;s New Editor Sticky Scroll Feature](https://app.daily.dev/posts/IGpNRefK1?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
 <!-- daily.dev BOOKMARKS:END -->
