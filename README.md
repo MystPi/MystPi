@@ -8,9 +8,9 @@
 
 ### [Daily.dev](https://daily.dev) Recent Bookmarks
 <!-- daily.dev BOOKMARKS:START -->
+- [Appwrite - 100% open source alternative for Firebase](https://app.daily.dev/posts/umop06zvi?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
 - [9 Figma Alternatives For A Blazingly Fast Increase In Your Productivity.](https://app.daily.dev/posts/FNuj181Qa?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
 - [Windows Terminal Preview 1.16 Release](https://app.daily.dev/posts/a4kC7tTOu?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
 - [Building Interactive Figma Widgets | CSS-Tricks](https://app.daily.dev/posts/CihOvhdNA?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
 - [Modern for Wikipedia](https://app.daily.dev/posts/NeHjtVk-H?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
-- [Blog - Next.js 12.3](https://app.daily.dev/posts/6VVgw9rI_?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
 <!-- daily.dev BOOKMARKS:END -->
