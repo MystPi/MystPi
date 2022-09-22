@@ -2,7 +2,7 @@
 
 <a href="https://app.daily.dev/MystPi"><img src="https://github.com/MystPi/MystPi/blob/main/devcard.svg" width="200" alt="MystPi's Dev Card" align="right"/></a>
 
-**I'm MystPi** - I love making things with JavaScript, Svelte, and basically any web framework I can get my hands on. CSS is awesome too, don't let anyone tell you otherwise. 😉
+**I'm MystPi** - I love creating things with JavaScript and Python, exploring new open source projects, and tinkering with Raspberry Pi.
 
 ![My skills](https://skillicons.dev/icons?i=svelte,js,html,css,py,raspberrypi,react,tailwind)
 
