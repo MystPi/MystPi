@@ -8,9 +8,9 @@
 
 ### [Daily.dev](https://daily.dev) Recent Bookmarks
 <!-- daily.dev BOOKMARKS:START -->
+- [How I Made an Icon System Out of CSS Custom Properties | CSS-Tricks](https://app.daily.dev/posts/6JdDsyZfP?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
+- [How to Recreate Stripe’s Lava Lamp Gradient with Three.js](https://app.daily.dev/posts/W1pn4kM-e?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
+- [How to invent reactive JavaScript](https://app.daily.dev/posts/0khBVP3Q7?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
+- [58 bytes of css to look great nearly everywhere](https://app.daily.dev/posts/MzI4VyksN?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
 - [React I Love You, But You&#39;re Bringing Me Down](https://app.daily.dev/posts/E9fvK-KcK?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
-- [Appwrite - 100% open source alternative for Firebase](https://app.daily.dev/posts/umop06zvi?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
-- [9 Figma Alternatives For A Blazingly Fast Increase In Your Productivity.](https://app.daily.dev/posts/FNuj181Qa?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
-- [Windows Terminal Preview 1.16 Release](https://app.daily.dev/posts/a4kC7tTOu?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
-- [Building Interactive Figma Widgets | CSS-Tricks](https://app.daily.dev/posts/CihOvhdNA?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
 <!-- daily.dev BOOKMARKS:END -->
