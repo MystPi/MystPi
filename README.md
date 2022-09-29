@@ -8,9 +8,9 @@
 
 ### [Daily.dev](https://daily.dev) Recent Bookmarks
 <!-- daily.dev BOOKMARKS:START -->
+- [REST API Best Practices – REST Endpoint Design Examples](https://app.daily.dev/posts/oHePMyx7D?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
+- [Experimenting A New Syntax To Write SVG](https://app.daily.dev/posts/WBlPqWccY?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
+- [GIFs Without the .gif: The Most Performant Image and Video Options Right Now | CSS-Tricks](https://app.daily.dev/posts/1NFo4fM6t?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
 - [How I Made an Icon System Out of CSS Custom Properties | CSS-Tricks](https://app.daily.dev/posts/6JdDsyZfP?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
 - [How to Recreate Stripe’s Lava Lamp Gradient with Three.js](https://app.daily.dev/posts/W1pn4kM-e?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
-- [How to invent reactive JavaScript](https://app.daily.dev/posts/0khBVP3Q7?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
-- [58 bytes of css to look great nearly everywhere](https://app.daily.dev/posts/MzI4VyksN?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
-- [React I Love You, But You&#39;re Bringing Me Down](https://app.daily.dev/posts/E9fvK-KcK?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
 <!-- daily.dev BOOKMARKS:END -->
