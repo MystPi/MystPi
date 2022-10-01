@@ -8,9 +8,9 @@
 
 ### [Daily.dev](https://daily.dev) Recent Bookmarks
 <!-- daily.dev BOOKMARKS:START -->
+- [Announcing a new Kindle—one you can write on](https://app.daily.dev/posts/EB_trDwe8?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
+- [How to win at CORS](https://app.daily.dev/posts/aRNDhFNjO?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
+- [Drawing a star with DOMMatrix](https://app.daily.dev/posts/EdaYPiHEo?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
+- [Make-A-Video](https://app.daily.dev/posts/IvqzwGL28?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
 - [REST API Best Practices – REST Endpoint Design Examples](https://app.daily.dev/posts/oHePMyx7D?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
-- [Experimenting A New Syntax To Write SVG](https://app.daily.dev/posts/WBlPqWccY?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
-- [GIFs Without the .gif: The Most Performant Image and Video Options Right Now | CSS-Tricks](https://app.daily.dev/posts/1NFo4fM6t?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
-- [How I Made an Icon System Out of CSS Custom Properties | CSS-Tricks](https://app.daily.dev/posts/6JdDsyZfP?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
-- [How to Recreate Stripe’s Lava Lamp Gradient with Three.js](https://app.daily.dev/posts/W1pn4kM-e?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
 <!-- daily.dev BOOKMARKS:END -->
