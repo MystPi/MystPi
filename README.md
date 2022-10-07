@@ -8,9 +8,9 @@
 
 ### [Daily.dev](https://daily.dev) Recent Bookmarks
 <!-- daily.dev BOOKMARKS:START -->
+- [Introducing Ezno](https://app.daily.dev/posts/32-K1KwMO?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
+- [7 Cool HTML Elements Nobody Uses](https://app.daily.dev/posts/79wmjLbEF?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
 - [A giant collection of popular layouts and patterns made with CSS](https://app.daily.dev/posts/455a2f5ad00d27f55f2c9bd656124d13?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
 - [Announcing a new Kindle—one you can write on](https://app.daily.dev/posts/EB_trDwe8?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
 - [How to win at CORS](https://app.daily.dev/posts/aRNDhFNjO?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
-- [Drawing a star with DOMMatrix](https://app.daily.dev/posts/EdaYPiHEo?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
-- [Make-A-Video](https://app.daily.dev/posts/IvqzwGL28?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
 <!-- daily.dev BOOKMARKS:END -->
