@@ -8,9 +8,9 @@
 
 ### [Daily.dev](https://daily.dev) Recent Bookmarks
 <!-- daily.dev BOOKMARKS:START -->
+- [Authentication just got easier!](https://app.daily.dev/posts/IEnARQTZA?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
 - [Visual Studio Code September 2022](https://app.daily.dev/posts/rEhYpKGjl?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
 - [How to Safely Share Your Email Address on a Website | CSS-Tricks](https://app.daily.dev/posts/c5P1m1xdH?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
 - [Introducing Ezno](https://app.daily.dev/posts/32-K1KwMO?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
 - [7 Cool HTML Elements Nobody Uses](https://app.daily.dev/posts/79wmjLbEF?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
-- [A giant collection of popular layouts and patterns made with CSS](https://app.daily.dev/posts/455a2f5ad00d27f55f2c9bd656124d13?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
 <!-- daily.dev BOOKMARKS:END -->
