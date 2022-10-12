@@ -8,9 +8,9 @@
 
 ### [Daily.dev](https://daily.dev) Recent Bookmarks
 <!-- daily.dev BOOKMARKS:START -->
+- [A World-Class Code Playground with Sandpack](https://app.daily.dev/posts/OqO6_h36N?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
+- [Introducing OG Image Generation: Fast, dynamic social card images at the Edge – Vercel](https://app.daily.dev/posts/MyZ3179-L?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
+- [dolthub/dolt: Dolt – It&#39;s Git for Data](https://app.daily.dev/posts/QNjsevmfA?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
 - [How to Favicon in 2021: Six files that fit most needs](https://app.daily.dev/posts/-mw8iX6i6?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
 - [Authentication just got easier!](https://app.daily.dev/posts/IEnARQTZA?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
-- [Visual Studio Code September 2022](https://app.daily.dev/posts/rEhYpKGjl?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
-- [How to Safely Share Your Email Address on a Website | CSS-Tricks](https://app.daily.dev/posts/c5P1m1xdH?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
-- [Introducing Ezno](https://app.daily.dev/posts/32-K1KwMO?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
 <!-- daily.dev BOOKMARKS:END -->
