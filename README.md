@@ -8,9 +8,9 @@
 
 ### [Daily.dev](https://daily.dev) Recent Bookmarks
 <!-- daily.dev BOOKMARKS:START -->
-- [A World-Class Code Playground with Sandpack](https://app.daily.dev/posts/OqO6_h36N?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
-- [Introducing OG Image Generation: Fast, dynamic social card images at the Edge – Vercel](https://app.daily.dev/posts/MyZ3179-L?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
-- [dolthub/dolt: Dolt – It&#39;s Git for Data](https://app.daily.dev/posts/QNjsevmfA?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
-- [How to Favicon in 2021: Six files that fit most needs](https://app.daily.dev/posts/-mw8iX6i6?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
-- [Authentication just got easier!](https://app.daily.dev/posts/IEnARQTZA?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
+- [Introducing Shoelace, a Framework-Independent Component-Based UX Library | CSS-Tricks](https://app.daily.dev/posts/SiOK8O-O0?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
+- [Layout Breakouts with CSS Grid](https://app.daily.dev/posts/sE9bSgm7C?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
+- [Introducing the Fleet Public Preview](https://app.daily.dev/posts/jLKfTi7L9?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
+- [Memetoberfest 2022 - an open source meme contest by daily.dev!](https://app.daily.dev/posts/mC8H9wtfg?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
+- [With 30+ Articles, You Will Not Be Confused When Learning TypeScript](https://app.daily.dev/posts/34fWsbdnS?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
 <!-- daily.dev BOOKMARKS:END -->
