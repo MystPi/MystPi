@@ -8,9 +8,9 @@
 
 ### [Daily.dev](https://daily.dev) Recent Bookmarks
 <!-- daily.dev BOOKMARKS:START -->
+- [Fancy Image Decorations: Single Element Magic | CSS-Tricks](https://app.daily.dev/posts/GmGsBD42k?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
+- [The 60:30:10 color rule for web design](https://app.daily.dev/posts/Rr7L2Tb3h?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
 - [Introducing Shoelace, a Framework-Independent Component-Based UX Library | CSS-Tricks](https://app.daily.dev/posts/SiOK8O-O0?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
 - [Layout Breakouts with CSS Grid](https://app.daily.dev/posts/sE9bSgm7C?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
 - [Introducing the Fleet Public Preview](https://app.daily.dev/posts/jLKfTi7L9?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
-- [Memetoberfest 2022 - an open source meme contest by daily.dev!](https://app.daily.dev/posts/mC8H9wtfg?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
-- [With 30+ Articles, You Will Not Be Confused When Learning TypeScript](https://app.daily.dev/posts/34fWsbdnS?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
 <!-- daily.dev BOOKMARKS:END -->
