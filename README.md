@@ -1,4 +1,4 @@
-# Hey there; welcome to my profile 👋
+# Hey there, welcome to my profile 👋
 
 <a href="https://app.daily.dev/MystPi"><img src="https://github.com/MystPi/MystPi/blob/main/devcard.svg" width="200" alt="MystPi's Dev Card" align="right"/></a>
 
