@@ -8,9 +8,9 @@
 
 ### [Daily.dev](https://daily.dev) Recent Bookmarks
 <!-- daily.dev BOOKMARKS:START -->
+- [The HTTP crash course nobody asked for](https://app.daily.dev/posts/0pFYlO7UT?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
 - [Fancy Image Decorations: Masks and Advanced Hover Effects | CSS-Tricks](https://app.daily.dev/posts/nzNm3XKdY?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
 - [CSS Tie-Dye Gradient Backgrounds](https://app.daily.dev/posts/A4Rvs6ydG?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
 - [Futuristic CSS — Smashing Magazine](https://app.daily.dev/posts/-Wp4gs2Yv?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
 - [Microsoft is working on its own CCleaner-like PC optimizer for Windows 11](https://app.daily.dev/posts/WeSb2bp0q?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
-- [Firefox makes browsing more colorful with new ‘independent voices’](https://app.daily.dev/posts/GPzh5aWzV?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
 <!-- daily.dev BOOKMARKS:END -->
