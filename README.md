@@ -8,9 +8,9 @@
 
 ### [Daily.dev](https://daily.dev) Recent Bookmarks
 <!-- daily.dev BOOKMARKS:START -->
+- [sindresorhus/awesome: 😎 Awesome lists about all kinds of interesting topics](https://app.daily.dev/posts/7rXMgTo1Q?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
+- [Getting Started](https://app.daily.dev/posts/ahMnLtB3p?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
+- [Introducing Turbopack: Rust-based successor to Webpack – Vercel](https://app.daily.dev/posts/UrAatdHSj?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
+- [Blog - Next.js 13](https://app.daily.dev/posts/gCX_wf7Qz?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
 - [The HTTP crash course nobody asked for](https://app.daily.dev/posts/0pFYlO7UT?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
-- [Fancy Image Decorations: Masks and Advanced Hover Effects | CSS-Tricks](https://app.daily.dev/posts/nzNm3XKdY?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
-- [CSS Tie-Dye Gradient Backgrounds](https://app.daily.dev/posts/A4Rvs6ydG?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
-- [Futuristic CSS — Smashing Magazine](https://app.daily.dev/posts/-Wp4gs2Yv?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
-- [Microsoft is working on its own CCleaner-like PC optimizer for Windows 11](https://app.daily.dev/posts/WeSb2bp0q?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
 <!-- daily.dev BOOKMARKS:END -->
