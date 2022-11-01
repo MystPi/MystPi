@@ -8,9 +8,9 @@
 
 ### [Daily.dev](https://daily.dev) Recent Bookmarks
 <!-- daily.dev BOOKMARKS:START -->
+- [Your Next.js Bundle Will Thank You](https://app.daily.dev/posts/oUZHRHmh-?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
 - [Textualize/textual: Textual is a TUI &lpar;Text User Interface&rpar; framework for Python inspired by modern web development.](https://app.daily.dev/posts/buVxEiCLo?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
 - [11 Features in Node.js 18 you need to try](https://app.daily.dev/posts/V_FEQWjVA?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
 - [How to Build a Blog with Fresh](https://app.daily.dev/posts/ewhzXXlgi?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
 - [Deno 1.27: Major IDE Improvements](https://app.daily.dev/posts/5WzWoSEHH?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
-- [I Re-Wrote These 10+ Single Lines of JavaScript Code, the Team Lead Praised the Code for Being Elegant](https://app.daily.dev/posts/i9O_ufZOe?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
 <!-- daily.dev BOOKMARKS:END -->
