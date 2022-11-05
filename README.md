@@ -8,9 +8,9 @@
 
 ### [Daily.dev](https://daily.dev) Recent Bookmarks
 <!-- daily.dev BOOKMARKS:START -->
+- [Generative art Open Graph preview images](https://app.daily.dev/posts/lSp1qLTBC?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
+- [Fancy Image Decorations: Outlines and Complex Animations | CSS-Tricks](https://app.daily.dev/posts/CB6Vc-V-B?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
+- [JavaScript Under The Hood: Advanced Concepts Developers Should Know](https://app.daily.dev/posts/xRzlGFA-F?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
 - [Product Hunt Launch 3rd November 2022](https://app.daily.dev/posts/VNmG0pDYP?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
 - [What&#39;s new in Svelte: November 2022](https://app.daily.dev/posts/3DIXkd4UG?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
-- [Some cool GitHub features to enhance your development experience](https://app.daily.dev/posts/MhfHrs8Qw?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
-- [Your Next.js Bundle Will Thank You](https://app.daily.dev/posts/oUZHRHmh-?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
-- [Textualize/textual: Textual is a TUI &lpar;Text User Interface&rpar; framework for Python inspired by modern web development.](https://app.daily.dev/posts/buVxEiCLo?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
 <!-- daily.dev BOOKMARKS:END -->
