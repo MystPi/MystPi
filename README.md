@@ -8,9 +8,9 @@
 
 ### [Daily.dev](https://daily.dev) Recent Bookmarks
 <!-- daily.dev BOOKMARKS:START -->
+- [Creating a Design System using Radix](https://app.daily.dev/posts/O2hI9722d?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
+- [An animated guide for Node.js event loop](https://app.daily.dev/posts/XgLuHlXak?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
+- [Moving Letters](https://app.daily.dev/posts/pC_SMWBXR?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
 - [Generative art Open Graph preview images](https://app.daily.dev/posts/lSp1qLTBC?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
 - [Fancy Image Decorations: Outlines and Complex Animations | CSS-Tricks](https://app.daily.dev/posts/CB6Vc-V-B?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
-- [JavaScript Under The Hood: Advanced Concepts Developers Should Know](https://app.daily.dev/posts/xRzlGFA-F?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
-- [Product Hunt Launch 3rd November 2022](https://app.daily.dev/posts/VNmG0pDYP?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
-- [What&#39;s new in Svelte: November 2022](https://app.daily.dev/posts/3DIXkd4UG?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
 <!-- daily.dev BOOKMARKS:END -->
