@@ -8,9 +8,9 @@
 
 ### [Daily.dev](https://daily.dev) Recent Bookmarks
 <!-- daily.dev BOOKMARKS:START -->
+- [Linked list in Javascript](https://app.daily.dev/posts/hVaRMiRCJ?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
+- [Everything new from GitHub Universe 2022](https://app.daily.dev/posts/VU1y1MrdQ?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
 - [Apt++? Nala is Like Apt in Ubuntu but Better](https://app.daily.dev/posts/XAWTh5-_L?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
 - [Creating a Design System using Radix](https://app.daily.dev/posts/O2hI9722d?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
 - [An animated guide for Node.js event loop](https://app.daily.dev/posts/XgLuHlXak?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
-- [Moving Letters](https://app.daily.dev/posts/pC_SMWBXR?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
-- [Generative art Open Graph preview images](https://app.daily.dev/posts/lSp1qLTBC?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
 <!-- daily.dev BOOKMARKS:END -->
