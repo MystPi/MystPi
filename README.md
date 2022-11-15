@@ -8,9 +8,9 @@
 
 ### [Daily.dev](https://daily.dev) Recent Bookmarks
 <!-- daily.dev BOOKMARKS:START -->
-- [Parcel v2.8.0](https://app.daily.dev/posts/Wdm_PONnR?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
-- [Deploying a simple Node.js app with HTTPS on cloud providers in 2022: Heroku, Render, Fly.io, AWS, Hetzner, Google Cloud Run](https://app.daily.dev/posts/8s0aTlG-T?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
-- [Why you should never use px to set font-size in CSS](https://app.daily.dev/posts/v3SAT4LsS?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
-- [The Shared Element Transition API is FLIPping Cool](https://app.daily.dev/posts/lkuxXsmuo0?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
-- [Linked list in Javascript](https://app.daily.dev/posts/hVaRMiRCJ?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
+- [Classy and Cool Custom CSS Scrollbars: A Showcase | CSS-Tricks](https://app.daily.dev/posts/3NEAb1Bd6?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
+- [Deno 1.28: Featuring 1.3 Million New Modules](https://app.daily.dev/posts/zbsM8QpSP?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
+- [CSS Grid and Custom Shapes, Part 3 | CSS-Tricks](https://app.daily.dev/posts/X9oOpIVI_?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
+- [Rebuilding Babel: The Tokenizer](https://app.daily.dev/posts/5sG3zNp4c?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
+- [Why would anyone need JavaScript generator functions?](https://app.daily.dev/posts/JTFs0MDpI?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
 <!-- daily.dev BOOKMARKS:END -->
