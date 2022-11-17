@@ -8,9 +8,9 @@
 
 ### [Daily.dev](https://daily.dev) Recent Bookmarks
 <!-- daily.dev BOOKMARKS:START -->
+- [Declarative Shadow DOM](https://app.daily.dev/posts/XAZn7u9Gc?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
+- [Build Apps in Deno with Frameworks such as React, Vue, Express, and more.](https://app.daily.dev/posts/mBCFYjl0l?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
+- [The Math Behind Nesting Rounded Corners](https://app.daily.dev/posts/cJir_J7zT?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
+- [The evolution of scalable CSS](https://app.daily.dev/posts/jMMUdJn-i?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
 - [Your next smart home device is a $30 used Kindle](https://app.daily.dev/posts/NiQdI6pxs?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
-- [Classy and Cool Custom CSS Scrollbars: A Showcase | CSS-Tricks](https://app.daily.dev/posts/3NEAb1Bd6?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
-- [Deno 1.28: Featuring 1.3 Million New Modules](https://app.daily.dev/posts/zbsM8QpSP?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
-- [CSS Grid and Custom Shapes, Part 3 | CSS-Tricks](https://app.daily.dev/posts/X9oOpIVI_?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
-- [Rebuilding Babel: The Tokenizer](https://app.daily.dev/posts/5sG3zNp4c?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
 <!-- daily.dev BOOKMARKS:END -->
