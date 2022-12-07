@@ -8,9 +8,9 @@
 
 ### [Daily.dev](https://daily.dev) Recent Bookmarks
 <!-- daily.dev BOOKMARKS:START -->
+- [Git skills you didn’t know you wanted](https://app.daily.dev/posts/CyoQXfimo?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
 - [Awesome Dev Tool Tips 🔥](https://app.daily.dev/posts/RRiV8zu39?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
 - [Super Useful CSS Resources 🌈](https://app.daily.dev/posts/_2BztdGT6?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
 - [CSS Infinite and Circular Rotating Image Slider | CSS-Tricks](https://app.daily.dev/posts/YsxMmq370?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
 - [How to split JavaScript strings into sentences, words or graphemes with &quot;Intl.Segmenter&quot;](https://app.daily.dev/posts/Fh48hMTdG?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
-- [Deno is &quot;blazing fast&quot; for humans](https://app.daily.dev/posts/C6Mx1MUUf?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
 <!-- daily.dev BOOKMARKS:END -->
