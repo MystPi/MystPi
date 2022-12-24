@@ -8,9 +8,9 @@
 
 ### [Daily.dev](https://daily.dev) Recent Bookmarks
 <!-- daily.dev BOOKMARKS:START -->
+- [12 Days of Web](https://app.daily.dev/posts/RcQtAcoPW?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
+- [20 Git Commands you &lpar;probably&rpar; didn&#39;t know about 🧙‍♂️](https://app.daily.dev/posts/ExulmGVev?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
+- [8 minutes to cover 99% of your Git needs](https://app.daily.dev/posts/Sdy_uj-1U?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
+- [Efficiently load JavaScript with defer and async](https://app.daily.dev/posts/ltoUTr1jq?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
 - [Blog - Next.js 13.1](https://app.daily.dev/posts/V1ENVxtt-?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
-- [VS Code Shortcuts To Code Like You’re Playing a Piano](https://app.daily.dev/posts/u4Cx9-dZN?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
-- [Announcing SvelteKit Auth: Bringing NextAuth.js to all frameworks – Vercel](https://app.daily.dev/posts/0bq2Z-bL_?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
-- [Host a Serverless Flask App on Vercel](https://app.daily.dev/posts/B5aDlMJsr?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
-- [What Are All These Boxes Doing Here? Docker &amp; Kubernetes explaination](https://app.daily.dev/posts/2vGX9VHZi?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
 <!-- daily.dev BOOKMARKS:END -->
