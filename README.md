@@ -8,9 +8,9 @@
 
 ### [Daily.dev](https://daily.dev) Recent Bookmarks
 <!-- daily.dev BOOKMARKS:START -->
+- [An Interactive Guide to Flexbox](https://app.daily.dev/posts/cki6EfP_G?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
 - [Build your own WebAssembly Compiler](https://app.daily.dev/posts/wBapdWcIE?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
 - [Advanced guide to the CSS toggle&lpar;&rpar; pseudo-class](https://app.daily.dev/posts/GKuEhbs0v?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
 - [Demystifying JSX: building your own JSX parser from scratch](https://app.daily.dev/posts/cC6Yr529x?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
 - [Gaac: Github As a CDN - Use your Github repo as a drag-and-drop CDN for Free](https://app.daily.dev/posts/tjFthONe5?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
-- [12 Days of Web](https://app.daily.dev/posts/RcQtAcoPW?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
 <!-- daily.dev BOOKMARKS:END -->
