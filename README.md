@@ -8,9 +8,9 @@
 
 ### [Daily.dev](https://daily.dev) Recent Bookmarks
 <!-- daily.dev BOOKMARKS:START -->
+- [Making sense of TypeScript using set theory](https://app.daily.dev/posts/z-SyfpXKD?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
+- [Cognitive Web](https://app.daily.dev/posts/F2rXk-Oh_?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
 - [Astro 2.0](https://app.daily.dev/posts/OoAz8bOGE?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
 - [A Complete Guide to CSS Grid | CSS-Tricks](https://app.daily.dev/posts/PJUHynbF2?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
 - [Solved With :has&lpar;&rpar;: Vertical Spacing in Long-Form Text | CSS-Tricks](https://app.daily.dev/posts/wU16uo-Zs?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
-- [Top Front-End Tools Of 2022 — Smashing Magazine](https://app.daily.dev/posts/8D3UCySrm?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
-- [The Only Markdown Cheatsheet You Will Ever Need](https://app.daily.dev/posts/YJMnppAV4?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
 <!-- daily.dev BOOKMARKS:END -->
