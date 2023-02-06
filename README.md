@@ -8,9 +8,9 @@
 
 ### [Daily.dev](https://daily.dev) Recent Bookmarks
 <!-- daily.dev BOOKMARKS:START -->
+- [Hiding classes in VS Code](https://app.daily.dev/posts/-fM29lg5g?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
 - [A Fancy Hover Effect For Your Avatar | CSS-Tricks](https://app.daily.dev/posts/O4EovelLN?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
 - [Unlock New Possibilities with Hybrid Rendering](https://app.daily.dev/posts/SFAmJBC0g?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
 - [What&#39;s new in Svelte: February 2023](https://app.daily.dev/posts/i_AzLiUoY?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
 - [Getting Started With SvelteKit | CSS-Tricks](https://app.daily.dev/posts/8zvPZR0RB?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
-- [How to convert an array of objects to an object in JavaScript](https://app.daily.dev/posts/ZW8nBMtNK?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
 <!-- daily.dev BOOKMARKS:END -->
