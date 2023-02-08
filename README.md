@@ -8,9 +8,9 @@
 
 ### [Daily.dev](https://daily.dev) Recent Bookmarks
 <!-- daily.dev BOOKMARKS:START -->
+- [Reinventing search with a new AI-powered Microsoft Bing and Edge, your copilot for the web](https://app.daily.dev/posts/9JNRyj-Bw?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
 - [TypeScript Utility Types You Need To Know](https://app.daily.dev/posts/qrejmaR0t?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
 - [Prototypal inheritance](https://app.daily.dev/posts/RpTN6h3Tp?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
 - [Hiding classes in VS Code](https://app.daily.dev/posts/-fM29lg5g?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
 - [A Fancy Hover Effect For Your Avatar | CSS-Tricks](https://app.daily.dev/posts/O4EovelLN?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
-- [Unlock New Possibilities with Hybrid Rendering](https://app.daily.dev/posts/SFAmJBC0g?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
 <!-- daily.dev BOOKMARKS:END -->
