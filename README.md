@@ -8,9 +8,9 @@
 
 ### [Daily.dev](https://daily.dev) Recent Bookmarks
 <!-- daily.dev BOOKMARKS:START -->
+- [Different Ways to Get CSS Gradient Shadows | CSS-Tricks](https://app.daily.dev/posts/SxZWBzXcd?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
 - [My favourite 3 lines of CSS](https://app.daily.dev/posts/usFqg3fuV?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
 - [Ues Maps more and Objects less](https://app.daily.dev/posts/MzOheCjJX?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
 - [Reinventing search with a new AI-powered Microsoft Bing and Edge, your copilot for the web](https://app.daily.dev/posts/9JNRyj-Bw?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
 - [TypeScript Utility Types You Need To Know](https://app.daily.dev/posts/qrejmaR0t?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
-- [Prototypal inheritance](https://app.daily.dev/posts/RpTN6h3Tp?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
 <!-- daily.dev BOOKMARKS:END -->
