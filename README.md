@@ -4,7 +4,7 @@
 
 **I'm MystPi** - I love creating things with JavaScript and Python, exploring new open source projects, and tinkering with Raspberry Pi.
 
-![My skills](https://skillicons.dev/icons?i=svelte,js,html,css,py,raspberrypi,react,tailwind)
+![My skills](https://skillicons.dev/icons?i=svelte,ts,js,html,css,raspberrypi,tailwind)
 
 ### [Daily.dev](https://daily.dev) Recent Bookmarks
 <!-- daily.dev BOOKMARKS:START -->
