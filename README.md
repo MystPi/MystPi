@@ -8,9 +8,9 @@
 
 ### [Daily.dev](https://daily.dev) Recent Bookmarks
 <!-- daily.dev BOOKMARKS:START -->
+- [Blog - Next.js 13.2](https://app.daily.dev/posts/6QCyDYqEH?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
 - [Adding custom HTML and CSS to GitHub README](https://app.daily.dev/posts/yb6CG9W26?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
 - [Visual design rules you can safely follow every time](https://app.daily.dev/posts/1w3Ykl5nK?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
 - [Different Ways to Get CSS Gradient Shadows | CSS-Tricks](https://app.daily.dev/posts/SxZWBzXcd?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
 - [My favourite 3 lines of CSS](https://app.daily.dev/posts/usFqg3fuV?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
-- [Ues Maps more and Objects less](https://app.daily.dev/posts/MzOheCjJX?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
 <!-- daily.dev BOOKMARKS:END -->
