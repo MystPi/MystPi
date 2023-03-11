@@ -8,9 +8,9 @@
 
 ### [Daily.dev](https://daily.dev) Recent Bookmarks
 <!-- daily.dev BOOKMARKS:START -->
+- [Zero-effort type safety](https://app.daily.dev/posts/1liLxEOGG?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
+- [Flux Keyboard](https://app.daily.dev/posts/JNLRHCkA6?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
 - [You Don&#39;t Need Rails to Start Using Hotwire](https://app.daily.dev/posts/shBq9H8Ui?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
 - [Blog - Next.js 13.2](https://app.daily.dev/posts/6QCyDYqEH?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
 - [Adding custom HTML and CSS to GitHub README](https://app.daily.dev/posts/yb6CG9W26?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
-- [Visual design rules you can safely follow every time](https://app.daily.dev/posts/1w3Ykl5nK?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
-- [Different Ways to Get CSS Gradient Shadows | CSS-Tricks](https://app.daily.dev/posts/SxZWBzXcd?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
 <!-- daily.dev BOOKMARKS:END -->
