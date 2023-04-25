@@ -8,9 +8,9 @@
 
 ### [Daily.dev](https://daily.dev) Recent Bookmarks
 <!-- daily.dev BOOKMARKS:START -->
+- [The “const” Deception](https://app.daily.dev/posts/66FmdKSYO?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
+- [Monorepos, fast maps, and more – Gleam](https://app.daily.dev/posts/XPNz2qI8q?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
 - [Words To Avoid in Educational Writing | CSS-Tricks](https://app.daily.dev/posts/vWPRSUMt1?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
 - [All you need is data and functions](https://app.daily.dev/posts/iOiGIPlP6?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
 - [Janet for Mortals](https://app.daily.dev/posts/PpsBjbws7?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
-- [Ahmad Shadeed](https://app.daily.dev/posts/GCtNrqpWO?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
-- [Tailwind CSS v3.3: Extended color palette, ESM/TS support, logical properties, and more](https://app.daily.dev/posts/4SqiTmfGT?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
 <!-- daily.dev BOOKMARKS:END -->
