@@ -8,9 +8,9 @@
 
 ### [Daily.dev](https://daily.dev) Recent Bookmarks
 <!-- daily.dev BOOKMARKS:START -->
+- [The Hunger Games prequel film gets its first trailer](https://app.daily.dev/posts/JYO8WgTcf?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
 - [Unleash the Power of the Platform with These HTML Tags](https://app.daily.dev/posts/H3tDJZldV?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
 - [Browsing reinvented](https://app.daily.dev/posts/WMaify7yw?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
 - [The “const” Deception](https://app.daily.dev/posts/66FmdKSYO?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
 - [Monorepos, fast maps, and more – Gleam](https://app.daily.dev/posts/XPNz2qI8q?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
-- [Words To Avoid in Educational Writing | CSS-Tricks](https://app.daily.dev/posts/vWPRSUMt1?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
 <!-- daily.dev BOOKMARKS:END -->
