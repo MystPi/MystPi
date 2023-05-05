@@ -8,9 +8,9 @@
 
 ### [Daily.dev](https://daily.dev) Recent Bookmarks
 <!-- daily.dev BOOKMARKS:START -->
+- [Blog - Next.js 13.4](https://app.daily.dev/posts/NeHkvXMrq?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
 - [Qwik Reaches v1.0](https://app.daily.dev/posts/AseQ9YLye?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
 - [What&#39;s new in Svelte: May 2023](https://app.daily.dev/posts/zs2QFwOru?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
 - [The Hunger Games prequel film gets its first trailer](https://app.daily.dev/posts/JYO8WgTcf?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
 - [Unleash the Power of the Platform with These HTML Tags](https://app.daily.dev/posts/H3tDJZldV?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
-- [Browsing reinvented](https://app.daily.dev/posts/WMaify7yw?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
 <!-- daily.dev BOOKMARKS:END -->
