@@ -8,9 +8,9 @@
 
 ### [Daily.dev](https://daily.dev) Recent Bookmarks
 <!-- daily.dev BOOKMARKS:START -->
+- [Go with PHP](https://app.daily.dev/posts/6jIeBgGfg?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
 - [Boost Your Site Perf with Qwik Visible Tasks](https://app.daily.dev/posts/7g1CgJyfC?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
 - [Astro 2.4](https://app.daily.dev/posts/Ay6A23ytn?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
 - [Blog - Next.js 13.4](https://app.daily.dev/posts/NeHkvXMrq?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
 - [Qwik Reaches v1.0](https://app.daily.dev/posts/AseQ9YLye?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
-- [What&#39;s new in Svelte: May 2023](https://app.daily.dev/posts/zs2QFwOru?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
 <!-- daily.dev BOOKMARKS:END -->
