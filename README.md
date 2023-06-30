@@ -8,9 +8,9 @@
 
 ### [Daily.dev](https://daily.dev) Recent Bookmarks
 <!-- daily.dev BOOKMARKS:START -->
+- [Qwik 1.2: Performance in Autopilot](https://app.daily.dev/posts/HjoYX2VRO?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
+- [svelte.dev: A complete overhaul](https://app.daily.dev/posts/xNJcC5qZ2?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
 - [Future CSS: State Container Queries](https://app.daily.dev/posts/FMqgeOi0g?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
 - [Where To Put Your Types in Application Code](https://app.daily.dev/posts/sBSKCNlZv?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
 - [Free AI Generated Images Vol. 1](https://app.daily.dev/posts/tlP5oSnmv?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
-- [Effortless Multi-threading in JSX with worker$](https://app.daily.dev/posts/LZxsImG4I?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
-- [useHooks](https://app.daily.dev/posts/Q0mtmsliA?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
 <!-- daily.dev BOOKMARKS:END -->
