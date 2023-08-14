@@ -14,3 +14,7 @@
 - [Qwik 1.2: Performance in Autopilot](https://app.daily.dev/posts/HjoYX2VRO?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
 - [svelte.dev: A complete overhaul](https://app.daily.dev/posts/xNJcC5qZ2?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
 <!-- daily.dev BOOKMARKS:END -->
+
+### My [Aviate](https://aviate.scratchers.tech) status
+
+[![NFlex23's Aviate status](https://aviate-ecgzaim48-mystpi.vercel.app/api/NFlex23/image?width=800&height=58)](https://aviate.scratchers.tech/api/NFlex23)
