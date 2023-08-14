@@ -17,4 +17,4 @@
 
 ### My [Aviate](https://aviate.scratchers.tech) status
 
-[![NFlex23's Aviate status](https://aviate-ecgzaim48-mystpi.vercel.app/api/NFlex23/image?width=800&height=58)](https://aviate.scratchers.tech/api/NFlex23)
+[![NFlex23's Aviate status](https://aviate-loym6nilo-mystpi.vercel.app/api/NFlex23/image?width=800&height=58&dark=true)](https://aviate.scratchers.tech/api/NFlex23)
