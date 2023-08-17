@@ -19,7 +19,7 @@
 
 <a href="https://aviate.scratchers.tech/api/NFlex23">
   <img
-    src="https://aviate-kltiz10ao-mystpi.vercel.app/api/NFlex23/image?width=500&height=90&dark=true"
+    src="https://aviate.scratchers.tech/api/image/NFlex23?width=500&height=90&dark=true"
     alt="NFlex23's Aviate status"
     style="height: 90px"
   />
