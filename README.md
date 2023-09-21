@@ -8,11 +8,11 @@
 
 ### [Daily.dev](https://daily.dev) Recent Bookmarks
 <!-- daily.dev BOOKMARKS:START -->
+- [Bun vs Node.js: Everything you need to know](https://app.daily.dev/posts/70wxUBJ1e?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
 - [Next.js 13.5](https://app.daily.dev/posts/HXmtLfcG2?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
 - [Windows Subsystem for Linux September 2023 update](https://app.daily.dev/posts/HmVUawQlz?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
 - [Understanding the JavaScript Modulo Operator](https://app.daily.dev/posts/gjj1wXE6f?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
 - [Painting with Math: A Gentle Study of Raymarching](https://app.daily.dev/posts/nHuV03Yut?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
-- [v0.dev by Vercel Labs](https://app.daily.dev/posts/NJi2sD5EN?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
 <!-- daily.dev BOOKMARKS:END -->
 
 ### My [Aviate](https://aviate.scratchers.tech) status
