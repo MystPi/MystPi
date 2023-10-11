@@ -8,11 +8,11 @@
 
 ### [Daily.dev](https://daily.dev) Recent Bookmarks
 <!-- daily.dev BOOKMARKS:START -->
+- [Fresh 1.5: Partials, client side navigation and more](https://app.daily.dev/posts/VWvEpDPgI?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
 - [Conditionally Styling Selected Elements in a Grid Container | CSS-Tricks](https://app.daily.dev/posts/hzg8gUBUQ?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
 - [An introduction to Web Components](https://app.daily.dev/posts/B4NRfUpfD?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
 - [Bun vs Node.js: Everything you need to know](https://app.daily.dev/posts/70wxUBJ1e?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
 - [Next.js 13.5](https://app.daily.dev/posts/HXmtLfcG2?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
-- [Windows Subsystem for Linux September 2023 update](https://app.daily.dev/posts/HmVUawQlz?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
 <!-- daily.dev BOOKMARKS:END -->
 
 ### My [Aviate](https://aviate.scratchers.tech) status
