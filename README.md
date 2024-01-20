@@ -8,11 +8,11 @@
 
 ### [Daily.dev](https://daily.dev) Recent Bookmarks
 <!-- daily.dev BOOKMARKS:START -->
+- [Gleam&#39;s New Interactive Language Tour – Gleam](https://app.daily.dev/posts/2GqWgq9HN?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
 - [Multi-target projects – Gleam](https://app.daily.dev/posts/B78qdkYzm?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
 - [Modern CSS for 2024: Use Cases for :has&lpar;&rpar;](https://app.daily.dev/posts/QoVYhJM36?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
 - [A Few Ways CSS Is Easier To Write In 2023 — Smashing Magazine](https://app.daily.dev/posts/0iV0RqOvo?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
 - [Let’s learn how modern JavaScript frameworks work by building one](https://app.daily.dev/posts/2QXTW6ZNu?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
-- [Messin’ around with web components. Also—JavaScript, generally](https://app.daily.dev/posts/yQoFEOrE5?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
 <!-- daily.dev BOOKMARKS:END -->
 
 ### My [Aviate](https://aviate.scratchers.tech) status
