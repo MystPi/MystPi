@@ -8,11 +8,11 @@
 
 ### [Daily.dev](https://daily.dev) Recent Bookmarks
 <!-- daily.dev BOOKMARKS:START -->
+- [Resilient LL Parsing Tutorial](https://app.daily.dev/posts/JJzEPeIG3?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
 - [Deno 1.40: Temporal API](https://app.daily.dev/posts/sbIuygBYT?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
 - [Learn CSS :has&lpar;&rpar; selector by examples: 5 top use cases](https://app.daily.dev/posts/GbvGsX2Ry?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
 - [Gleam&#39;s New Interactive Language Tour – Gleam](https://app.daily.dev/posts/2GqWgq9HN?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
 - [Multi-target projects – Gleam](https://app.daily.dev/posts/B78qdkYzm?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
-- [Modern CSS for 2024: Use Cases for :has&lpar;&rpar;](https://app.daily.dev/posts/QoVYhJM36?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
 <!-- daily.dev BOOKMARKS:END -->
 
 ### My [Aviate](https://aviate.scratchers.tech) status
