@@ -1,6 +1,6 @@
 # Hey there, welcome to my profile 👋
 
-<a href="https://app.daily.dev/MystPi"><img src="https://github.com/MystPi/MystPi/blob/main/devcard.svg" width="200" alt="MystPi's Dev Card" align="right"/></a>
+<a href="https://app.daily.dev/MystPi"><img src="https://github.com/MystPi/MystPi/blob/main/devcard.png" width="200" alt="MystPi's Dev Card" align="right"/></a>
 
 **I'm MystPi** - I love Gleam, TypeScript, and various other assorted languages. Constantly exploring the vast world of OSS... one ⭐ at a time.
 
