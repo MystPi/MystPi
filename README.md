@@ -8,11 +8,11 @@
 
 ### [Daily.dev](https://daily.dev) Recent Bookmarks
 <!-- daily.dev BOOKMARKS:START -->
+- [The Absolute Best Intro to Monads For Software Engineers](https://app.daily.dev/posts/XQrUeWcJb?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
 - [Gleam version 1 – Gleam](https://app.daily.dev/posts/f7grWt6Hv?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
 - [What if best practices were the norm?](https://app.daily.dev/posts/iExLrV49P?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
 - [CSS :has&lpar;&rpar; Interactive Guide](https://app.daily.dev/posts/qThm314CF?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
 - [Resilient LL Parsing Tutorial](https://app.daily.dev/posts/JJzEPeIG3?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
-- [Deno 1.40: Temporal API](https://app.daily.dev/posts/sbIuygBYT?utm_source=rss&utm_medium=bookmarks&utm_campaign=Itr6mLfRdMms0HCyePtl9)
 <!-- daily.dev BOOKMARKS:END -->
 
 ### My [Aviate](https://aviate.scratchers.tech) status
